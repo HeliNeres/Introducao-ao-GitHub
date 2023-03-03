@@ -8,3 +8,6 @@ https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generati
 
 ## Adicionar SSH
 https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+## Lista de Comandos
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
