@@ -11,3 +11,6 @@ https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a
 
 ## Lista de Comandos
 https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+## Erro
+https://gist.github.com/Tamal/1cc77f88ef3e900aeae65f0e5e504794
